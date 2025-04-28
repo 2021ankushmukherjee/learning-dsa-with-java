@@ -10,6 +10,7 @@ public class Functions {
 
         Scanner sc = new Scanner(System.in);
 
+        
         System.out.println("Test");
 
         int a = sc.nextInt();
