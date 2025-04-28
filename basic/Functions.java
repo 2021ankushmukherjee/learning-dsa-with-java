@@ -5,6 +5,7 @@ public class Functions {
     private static int calculateProduct(int a, int b) {
         return a * b;
     }
+    
 
     public static void main(String args[]) {
 
